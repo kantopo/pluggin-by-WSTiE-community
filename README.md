@@ -1,5 +1,5 @@
 # pluggin-by-WSTiE-community
-Repository for students WSTiE
+by students from WSTiE
 # Project Overview: Streamlining the Digital Learning Experience
 1. Introduction
 Our project aims to bridge the gap between complex academic theory and student comprehension. By developing a simplified, accessible learning experience, we provide educational materials authored by students and educators who have personally navigated these challenging subjects. Our primary goal is to ensure that future generations of students can master difficult concepts with greater ease.

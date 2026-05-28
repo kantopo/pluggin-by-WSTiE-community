@@ -1,7 +1,7 @@
 # pluggin-by-WSTiE-community
 by students from WSTiE
 # Project Overview: Streamlining the Digital Learning Experience
-1. Introduction
+## 1. Introduction
 
 Our project aims to bridge the gap between complex academic theory and student comprehension. By developing a simplified, accessible learning experience, we provide educational materials authored by students and educators who have personally navigated these challenging subjects. Our primary goal is to ensure that future generations of students can master difficult concepts with greater ease.
 ### During the research phase, we evaluated three primary methodologies for system development:
@@ -11,7 +11,7 @@ Our project aims to bridge the gap between complex academic theory and student c
 
 Given the project’s scope, personnel constraints, and timeline, we selected Moodle as our core platform. This allowed us to leverage robust, pre-existing functionality while focusing our resources on content creation for core subjects: Discrete Mathematics, Mathematical Analysis, and Linear Algebra.
 
-2. Project Roles & Responsibilities
+## 2. Project Roles & Responsibilities
 
 - Kiryl: Project Manager & Content Author
 - Michael: Server Administration & Moodle Instance Management
@@ -19,7 +19,7 @@ Given the project’s scope, personnel constraints, and timeline, we selected Mo
 - Uliana: Lead Resource Coordinator (PDF Materials)
 - Illia, Roma, Aleksej, Bohdan, Vitaly: Technical & Content Support Team
 
-3. Server Infrastructure & Deployment
+## 3. Server Infrastructure & Deployment
 
 Initial Implementation
 To host the development environment, we utilized a private server running Proxmox VE for virtualization. A dedicated Virtual Machine (VM) was provisioned with a standard LAMP stack (Apache, PHP, and MariaDB). We initially deployed Moodle 5.11 (December Stable Release), configured outgoing SMTP for notifications, and optimized PHP limits to accommodate large educational plugins and media files.
@@ -30,7 +30,7 @@ Version Parity: The system was downgraded to Moodle 4.5.4 to mirror the universi
 Connectivity
 Access was managed via VPN to maintain a secure development perimeter. While we explored public-facing options like Cloudflare Tunnels, we concluded that a VPN provided the most secure environment for internal collaborative development.
 
-4. Plugin Integration & Evaluation
+## 4. Plugin Integration & Evaluation
 
 We conducted extensive testing on various plugins to enhance the user experience. Many were discarded due to technical limitations or redundant features:
 H5P & PDF Annotation: Dismissed due to editor friction and bugs regarding anonymous permission sets.
@@ -41,7 +41,7 @@ MathType (WIRIS): Essential for rendering complex mathematical notation. For opt
 Completion Progress: Provides students with a visual roadmap of their achievements and remaining tasks.
 Mass Actions: Enabled the administrative team to manage content efficiently, performing bulk moves and edits that the standard interface does not support.
 
-5. Course Structure & Pedagogical Design
+## 5. Course Structure & Pedagogical Design
 
 We organized the platform into a hierarchical structure under the "Rok 1" category, spanning Probability & Statistics, Mathematical Analysis & Linear Algebra, and Discrete Mathematics.
 Each topic follows a rigorous pedagogical template:

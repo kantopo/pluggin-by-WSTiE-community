@@ -41,7 +41,7 @@ MathType (WIRIS): Essential for rendering complex mathematical notation. For opt
 Completion Progress: Provides students with a visual roadmap of their achievements and remaining tasks.
 Mass Actions: Enabled the administrative team to manage content efficiently, performing bulk moves and edits that the standard interface does not support.
 
-6. Course Structure & Pedagogical Design
+5. Course Structure & Pedagogical Design
 
 We organized the platform into a hierarchical structure under the "Rok 1" category, spanning Probability & Statistics, Mathematical Analysis & Linear Algebra, and Discrete Mathematics.
 Each topic follows a rigorous pedagogical template:

@@ -4,9 +4,9 @@ by students from WSTiE
 1. Introduction
 Our project aims to bridge the gap between complex academic theory and student comprehension. By developing a simplified, accessible learning experience, we provide educational materials authored by students and educators who have personally navigated these challenging subjects. Our primary goal is to ensure that future generations of students can master difficult concepts with greater ease.
 During the research phase, we evaluated three primary methodologies for system development:
-Custom Development: Building a full-stack solution (Frontend, Backend, and Database) from scratch.
-Hybrid Integration: Utilizing an existing LMS backend via API with a custom-designed UI.
-LMS Adaptation: Modifying established platforms such as Moodle or edX.
+### Custom Development: Building a full-stack solution (Frontend, Backend, and Database) from scratch.
+### Hybrid Integration: Utilizing an existing LMS backend via API with a custom-designed UI.
+### LMS Adaptation: Modifying established platforms such as Moodle or edX.
 Given the project’s scope, personnel constraints, and timeline, we selected Moodle as our core platform. This allowed us to leverage robust, pre-existing functionality while focusing our resources on content creation for core subjects: Discrete Mathematics, Mathematical Analysis, and Linear Algebra.
 
 2. Project Roles & Responsibilities

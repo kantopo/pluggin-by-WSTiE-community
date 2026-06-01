@@ -1,4 +1,6 @@
-# pluggin-by-WSTiE-community
+
+<img width="2095" height="496" alt="Moodle" src="https://github.com/user-attachments/assets/c37ff2aa-a843-4074-896a-25650556075d" />
+
 by students from WSTiE
 # Project Overview: Streamlining the Digital Learning Experience
 ## 1. Introduction

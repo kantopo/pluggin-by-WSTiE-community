@@ -44,9 +44,14 @@ Mass Actions: Enabled the administrative team to manage content efficiently, per
 ## 5. Course Structure & Pedagogical Design
 
 We organized the platform into a hierarchical structure under the "Rok 1" category, spanning Probability & Statistics, Mathematical Analysis & Linear Algebra, and Discrete Mathematics.
-Each topic follows a rigorous pedagogical template:
+<img width="1356" height="471" alt="Screenshot 2026-06-01 at 4 45 53 PM" src="https://github.com/user-attachments/assets/56405f07-2f90-4d94-a699-ea1d7df90175" />
+
+And then each topic follows a rigorous pedagogical template:
 Simplified Theory: Core concepts explained in plain language, focusing on high-impact information.
 Multimedia Integration: Supplemental video lectures for visual learners.
 Adaptive Quizzes: Assessments are set to "Adaptive Mode," providing immediate feedback. Incorrect answers offer hints, while correct answers provide full step-by-step solutions to reinforce the logic.
 Resource Repository: Curated PDF materials provided by faculty served as the academic foundation for our digitized content.
 Collaborative Forums: Discussion boards with mandatory subscriptions and disabled anonymity to foster a professional and accountable peer-learning environment.
+<img width="1493" height="824" alt="Screenshot 2026-06-01 at 4 47 13 PM" src="https://github.com/user-attachments/assets/44990404-0a61-4fc1-bd0f-0f9e79f16aff" />
+
+
